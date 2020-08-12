@@ -17,7 +17,7 @@
 ## Websites
 - [Thunlai](https://thunlai.com) (Online Bodo Content Tool)
 - [English-Bodo Glossary](https://glossary.naigir.com)
-
+- [NAIGIR](https://naigir.com)
 
 ## Papers
 - [Attention based English-Bodo Neural Machine Translation System for Tourism Domain](https://ieeexplore.ieee.org/document/8819699)
@@ -29,3 +29,4 @@
 
 ## Open Source
 - [Firefox translations](https://pontoon.mozilla.org/brx/)
+
