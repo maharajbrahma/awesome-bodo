@@ -29,4 +29,5 @@
 
 ## Open Source
 - [Firefox translations](https://pontoon.mozilla.org/brx/)
-
+- [Gnome translations](https://l10n.gnome.org/teams/brx/)
+- [Ubuntu translations](https://launchpad.net/~ubuntu-l10n-brx)
