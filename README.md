@@ -7,7 +7,7 @@
 - [Papers](#papers)
 - [Research](#research)
 - [Blogs](#blogs)
-- [Open Source](#open-source)
+- [Localization](#localization)
 
 ## Software
 - [Bodo Keyboard for Windows](http://bodo.gitspot.com/2012/11/bodo-keyboard-for-microsoft-windows.html)
@@ -27,7 +27,7 @@
 
 ## Blogs
 
-## Open Source
+## Localization
 - [Firefox translations](https://pontoon.mozilla.org/brx/)
 - [Gnome translations](https://l10n.gnome.org/teams/brx/)
 - [Ubuntu translations](https://launchpad.net/~ubuntu-l10n-brx)
