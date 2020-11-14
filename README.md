@@ -16,7 +16,7 @@
 
 ## Websites
 - [Thunlai](https://thunlai.com) (Online Bodo Content Tool)
-- [English-Bodo Glossary](https://glossary.naigir.com)
+- [English-Bodo Glossary](https://glossary.naigir.com) (Swdwb Bihung: English-Bodo Glossary)
 - [NAIGIR](https://naigir.com)
 
 ## Papers
