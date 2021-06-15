@@ -8,6 +8,7 @@
 - [Research](#research)
 - [Blogs](#blogs)
 - [Localization](#localization)
+- [Journals](#journals)
 
 ## Software
 - [Bodo Keyboard for Windows](http://bodo.gitspot.com/2012/11/bodo-keyboard-for-microsoft-windows.html)
@@ -31,3 +32,6 @@
 - [Firefox translations](https://pontoon.mozilla.org/brx/)
 - [Gnome translations](https://l10n.gnome.org/teams/brx/)
 - [Ubuntu translations](https://launchpad.net/~ubuntu-l10n-brx)
+
+## Journals
+- [Journal of Bodo Language, Literature, Art and Culture (बर’ राव, थुनलाइ, आरिमु आरो हारिमुनि बिजिरसंलाइसि)](https://www.bodojournal.org/)
