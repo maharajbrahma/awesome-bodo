@@ -9,6 +9,7 @@
 - [Blogs](#blogs)
 - [Localization](#localization)
 - [Journals](#journals)
+- [Archive](#archive)
 
 ## Software
 - [Bodo Keyboard for Windows](http://bodo.gitspot.com/2012/11/bodo-keyboard-for-microsoft-windows.html)
@@ -35,3 +36,6 @@
 
 ## Journals
 - [Journal of Bodo Language, Literature, Art and Culture (बर’ राव, थुनलाइ, आरिमु आरो हारिमुनि बिजिरसंलाइसि)](https://www.bodojournal.org/)
+
+## Archive
+- [Bodo Dimasa Archival Project](http://bododimasaarchive.org)
