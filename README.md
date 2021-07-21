@@ -20,6 +20,7 @@
 - [Thunlai](https://thunlai.com) (Online Bodo Content Tool)
 - [English-Bodo Glossary](https://glossary.naigir.com) (Swdwb Bihung: English-Bodo Glossary)
 - [NAIGIR](https://naigir.com)
+- [National Institute of Bodology](https://www.nibodology.org/)
 
 ## Papers
 - [Attention based English-Bodo Neural Machine Translation System for Tourism Domain](https://ieeexplore.ieee.org/document/8819699)
