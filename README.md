@@ -1,4 +1,4 @@
-# awesome-bodo
+# Awesome Bodo
 
 ## Contents
 
