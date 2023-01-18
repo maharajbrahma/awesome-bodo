@@ -22,6 +22,7 @@
 - [NAIGIR](https://naigir.com)
 - [National Institute of Bodology](https://www.nibodology.org/)
 - [ISO 639-3](https://iso639-3.sil.org/code/brx)
+- [Motailic](https://motaitalic.github.io/devanagari-documentation/languages/bodo/bodo.html)
 
 ## Papers
 - [Attention based English-Bodo Neural Machine Translation System for Tourism Domain](https://ieeexplore.ieee.org/document/8819699)
